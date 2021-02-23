@@ -28,5 +28,9 @@ The three models are linear, polynomial and rbf(radio basis function) and then p
  
  **Note:** This is an updated version of preferred procedure of the pervious code.
  
+ **Results**
+ 
+ ![plot](https://github.com/ShrishtiHore/Predicting_Stock_Prices/blob/master/stock_price_prediction_output.png)
+ 
  **References**
 1. https://github.com/elliottlin/Predict_stock_price_LSTM
